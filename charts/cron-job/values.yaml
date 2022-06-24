@@ -3,8 +3,7 @@ image:
   tag: stable-slim
 
 schedule: "*/1 * * * *"
-command: |
-  echo "I'm alive"
+command: null
 shell: "/bin/sh"
 
 nameOverride: ""
